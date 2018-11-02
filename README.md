@@ -1,0 +1,2 @@
+# projectadi.war
+projectadi
